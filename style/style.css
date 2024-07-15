@@ -25,6 +25,9 @@
     border: none;
     margin-top: 32px;
 }
+button:hover{
+    cursor: pointer;
+}
 
 .navbar,.banner,main{
     max-width: 1440px;
