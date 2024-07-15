@@ -208,6 +208,13 @@ main > section{
     filter: grayscale(100%) 
 }
 
+/* footer section styles */
+.footer{
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 30px;
+    text-align: center;
+}
 
 /* responsive small media query */
 @media screen and (max-width:576px) {
